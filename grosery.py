@@ -20,4 +20,4 @@ for j in a:
     sum =(sum+a[j])
 print("Total Amount Of Items Is :",sum)
 #this is my first project
-
+# local and ec2 users are working here
