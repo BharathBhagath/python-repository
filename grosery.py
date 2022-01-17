@@ -21,3 +21,4 @@ for j in a:
 print("Total Amount Of Items Is :",sum)
 #this is my first project
 # local and ec2 users are working here
+# this is version2
