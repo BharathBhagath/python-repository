@@ -19,5 +19,5 @@ for j in a:
     print("\t",j,"\t\t\t\t\t",a[j],"\t")
     sum =(sum+a[j])
 print("Total Amount Of Items Is :",sum)
-
+#this is my first project
 
